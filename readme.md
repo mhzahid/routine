@@ -1,10 +1,17 @@
 
-## About Laravel
+## About
 
 I did this project to help the student and teacher of the department of Software Engineering, Daffodil International University.
 It generate class routine on the basis of the subject.
 
 [Live Demo](http://mhzahid.tk/).
+
+
+##Language and tools
+
+-[Laravel](http://www.laravel.com).
+-[Laravel Excel](https://laravel-excel.maatwebsite.nl).
+-[Laravel-dompdf](https://github.com/barryvdh/laravel-dompdf).
 
 
 ## License
