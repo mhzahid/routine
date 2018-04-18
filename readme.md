@@ -18,7 +18,7 @@ It generate class routine on the basis of the subject.
 - Generate SWE class routine.
 - Download routine in image format.
 - Download routine in pdf format.
-- API for built platform indipendent service. 
+- API for built platform independent service. 
 
 ## License
 
