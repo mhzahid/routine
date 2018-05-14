@@ -22,4 +22,4 @@ It generate class routine on the basis of the subject.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Theis project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
